@@ -10,3 +10,13 @@ p{
 	color:gray;
 	font-size:18px;
 }
+
+input{
+	display: block;
+	width: 30%;
+}
+
+textarea{
+	width: 80%;
+	display: block;
+}
