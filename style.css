@@ -13,10 +13,21 @@ p{
 
 input{
 	display: block;
-	width: 30%;
+	width: 20%;
 }
 
 textarea{
-	width: 80%;
+	width: 50%;
 	display: block;
+	margin-top: 5px;
+}
+
+button{
+	color: #fff;
+	border:0 none;
+	background-color: #A2C8D9;
+	height: 30px;
+	width:60px;
+	border-radius: 3px;
+	margin-top: 5px;
 }
