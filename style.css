@@ -4,3 +4,9 @@ h1{
 	text-align: center;
 	text-decoration: underline;
 }
+
+p{
+	text-align : justify;
+	color:gray;
+	font-size:18px;
+}
